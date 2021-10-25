@@ -1,0 +1,5 @@
+1. server里加上
+<Context path="img" docBase="E:\JAVAWEB\upalude" reloadable="true" ></Context>
+
+
+2.将javaWeb单独放在E盘
